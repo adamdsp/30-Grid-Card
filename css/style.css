@@ -1,6 +1,6 @@
-@charset "UTF-8";
 /* Importación de la fuente Poppins */
 @import "https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap";
+
 /* ============================
    ESTILOS GLOBALES
    ============================ */
@@ -186,4 +186,4 @@ main {
   main .responsive-container .grid {
     grid-template-columns: 1fr;
   }
-}/*# sourceMappingURL=style.css.map */
+}
